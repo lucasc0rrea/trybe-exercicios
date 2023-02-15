@@ -15,8 +15,8 @@ Este repositório contará com todos os exercícios que forem executados por [@l
 
 #### Bloco 20 - Introdução à SQL
 
-- [ ] 20.1 - Introdução - Bancos de dados relacionais
-- [ ] 20.1 - Banco de dados SQL
+- [X] 20.1 - Introdução - Bancos de dados relacionais
+- [X] 20.1 - Banco de dados SQL
 - [ ] 20.2 - Encontrando dados em um banco de dados
 - [ ] 20.3 - Filtrando dados de forma específica
 - [ ] 20.4 - Manipulando tabelas
