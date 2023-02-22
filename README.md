@@ -17,9 +17,9 @@ Este repositório contará com todos os exercícios que forem executados por [@l
 
 - [X] 20.1 - Introdução - Bancos de dados relacionais
 - [X] 20.1 - Banco de dados SQL
-- [ ] 20.2 - Encontrando dados em um banco de dados
-- [ ] 20.3 - Filtrando dados de forma específica
-- [ ] 20.4 - Manipulando tabelas
+- [X] 20.2 - Encontrando dados em um banco de dados
+- [X] 20.3 - Filtrando dados de forma específica
+- [X] 20.4 - Manipulando tabelas
 - [ ] 20.5 - Projeto - All For One
 
 #### Bloco 21 - Funções SQL, JOINs e Normalização
