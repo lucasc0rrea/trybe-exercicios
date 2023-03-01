@@ -20,11 +20,11 @@ Este repositório contará com todos os exercícios que forem executados por [@l
 - [X] 20.2 - Encontrando dados em um banco de dados
 - [X] 20.3 - Filtrando dados de forma específica
 - [X] 20.4 - Manipulando tabelas
-- [ ] 20.5 - Projeto - All For One
+- [X] 20.5 - Projeto - All For One
 
 #### Bloco 21 - Funções SQL, JOINs e Normalização
 
-- [ ] 21.1 - Funções mais usadas no SQL
+- [X] 21.1 - Funções mais usadas no SQL
 - [ ] 21.2 - Descomplicando JOINs
 - [ ] 21.3 - Transformando ideias em um modelo de banco de dados
 - [ ] 21.4 - Aula ao vivo + Projeto - One For All
