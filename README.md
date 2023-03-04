@@ -27,7 +27,7 @@ Este repositório contará com todos os exercícios que forem executados por [@l
 - [X] 21.1 - Funções mais usadas no SQL
 - [X] 21.2 - Descomplicando JOINs
 - [X] 21.3 - Transformando ideias em um modelo de banco de dados
-- [ ] 21.4 - Aula ao vivo + Projeto - One For All
+- [X] 21.4 - Aula ao vivo + Projeto - One For All
 
 
 #### Bloco 22 - Introdução ao desenvolvimento Web com Node.js
