@@ -32,12 +32,12 @@ Este repositório contará com todos os exercícios que forem executados por [@l
 
 #### Bloco 22 - Introdução ao desenvolvimento Web com Node.js
 
-- [ ] 22.1 - Intro - Node.js
-- [ ] 22.1 - Node.js - Um motor JavaScript
-- [ ] 22.2 - Node.js - Fluxo Assíncrono
-- [ ] 22.3 - Mocha, Chai e Sinon - Testes de Back-end com Node.js
-- [ ] 22.4 - Express - HTTP com Node.js
-- [ ] 22.5 - Express - Middlewares
+- [X] 22.1 - Intro - Node.js
+- [X] 22.1 - Node.js: Runtime Assíncrono
+- [X] 22.2 - Node.js: API REST com Express
+- [ ] 22.3 - Node.js: Testes de Integração
+- [ ] 22.4 - Node.js: Express e Middlewares
+- [ ] 22.5 - Node.js: Express e MySQL
 - [ ] 22.6 - Atividades + Projeto - Talker Manager
 
 #### Bloco 23 - Node.js: Camada de Serviço e Arquitetura Rest e Restful
